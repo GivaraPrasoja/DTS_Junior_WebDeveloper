@@ -1,0 +1,17 @@
+.about {
+    padding: 5%;
+}
+.cotainer-fluid {
+    padding: 5%;
+  
+}
+.container {
+    padding-top: 15px;
+    text-justify: newspaper;
+}
+.card-body {
+    padding-top: 5px 5px 5px 5px;
+    justify-content: center;
+    background-color: rgba(169, 169, 169, 0.473);
+    font-family: initial;
+}
